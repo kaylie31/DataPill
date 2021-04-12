@@ -1,1 +1,2 @@
 # TheCodingPharmacist
+The purpose of this project is to document (almost) everything that I learnt about coding. At the point of creation of this project, I was a second-year pharmacy student who really loved to code. This interest kept me up at night and finally I have devided that I need to pursue this passion. Besides the book-keeping purpose, this project could be useful as a guide to those who just started coding, especially those with background in pharmacy who will find my experience relatable. 
