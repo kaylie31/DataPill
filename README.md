@@ -1,2 +1,5 @@
-# TheCodingPharmacist
-The purpose of this project is to document (almost) everything that I learnt about coding. At the point of creation of this project, I was a second-year pharmacy student who really loved to code. This interest kept me up at night and finally I have devided that I need to pursue this passion. Besides the book-keeping purpose, this project could be useful as a guide to those who just started coding, especially those with background in pharmacy who will find my experience relatable. 
+# DataPill
+
+This repository holds all the code for my portfolio projects. 
+
+Hi, my name is Khanh. I am a clinical pharmacist based in British Columbia, Canada. I love coding and enjoy conversing in numbers. This interest started even before my years of pharmacy schooling. The desire to be in a position where my pharmacy background and data analytic skills can both thrive has kept me up many nights. I have completed the Data Analyst courses from codegym.vn, which taught me proficiency in Excel, PowerBI, SQL, and Python. The projects enclosed in this repository demonstrate my ability to apply data analytic skills to real-world problems. 
